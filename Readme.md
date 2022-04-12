@@ -1,1 +1,1 @@
-This is a test repo for {}
+This is a test repo for {.
